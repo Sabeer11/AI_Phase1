@@ -1,4 +1,4 @@
-
+Fake news detection using NLP problem statement and solved solutions 
 <!DOCTYPE html>
 <html lang="en" dir="ltr" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" class=" fh  responsive " style="">
   <head>
@@ -16,20 +16,12 @@
         #buttonBar { margin-top: 20px; }
         input[type="submit"] { background:rgb(16, 110, 190); color: #fff; border-radius: 4px; cursor: pointer; height: 32px; padding:0 12px; border: 1px solid transparent; }
     </style>
-    
-
-  </head>
+   </head>
   <body style="" class="" id="browsernotsupported">
-
-
-    <div id="header"><a href="https&#58;//onedrive.live.com/">OneDrive</a>
-        
-    </div>
-
+    div id="header"><a href="https&#58;//onedrive.live.com/">OneDrive</a>
+   </div>
 <div id="infoPage">
-     
-
- <div id="infoBox" >
+    <div id="infoBox" >
     <div id="infoBoxContent">
     <h1 id="infoBoxTitle" >Microsoft services are designed for you, but maybe not for your browser</h1>
     <div id="infoBoxMessage" >Some features might not work correctly with the version of the web browser you&#8217;re currently using.<br /><br />
@@ -45,9 +37,7 @@
     </div><div class="c_clr"> </div>
 </div>
 </div>
-
-
-  <div id="sdx_error">
+<div id="sdx_error">
     
     <style>
         #infoBox {
@@ -100,14 +90,6 @@
             Not now
         </a>
     </div>
-    
-  </div>
-
-
-
-
-<!-- MLHN:RD6C15449A63E7 -->
-    
-    
-  </body>
+     </div>
+     </body>
 </html>
